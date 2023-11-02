@@ -56,7 +56,7 @@ model_resnet = ResNet(n_blocchi = 15, n_hidden = 64)
 model_resnet.compile(optimizer='adam', loss=CategoricalCrossentropy(), metrics=["accuracy"])
 model_resnet.build((None,256,256,3))
 
-model_resnet.load_weights("61_epoch_weights_256x256.keras")
+model_resnet.load_weights("152_epoch_weights_256x256.keras")
 
 
 #______________________________________________________________________________________________________________________
