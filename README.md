@@ -1,4 +1,4 @@
-![Esempio del risultato voluto]([https://media.audi.com/is/image/audi/microsites/atwodtwo/assets/1920x1080-desktop-aev-anja1.jpg])
+![Esempio del risultato voluto](https://media.audi.com/is/image/audi/microsites/atwodtwo/assets/1920x1080-desktop-aev-anja1.jpg)
 
 ## Project for educational purposes
 
